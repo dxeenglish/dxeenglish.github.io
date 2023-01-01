@@ -2,8 +2,8 @@
 :root {
 	--pale-blue: #C4AE78;
 	/* Dark mode custom colors */
-	--dark-fg: #f7f3f2;
-	--dark-bg: #363d45;
+	--dark-fg: #363d45;
+	--dark-bg: #f7f3f2;
 }
 
 html {
