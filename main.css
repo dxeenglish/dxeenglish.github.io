@@ -1,9 +1,9 @@
 /* CSS variables */
 :root {
-	--pale-blue: #2563eb;
+	--pale-blue: #C4AE78;
 	/* Dark mode custom colors */
-	--dark-fg: #f0f0f0;
-	--dark-bg: #bd8e83;
+	--dark-fg: #F9F6F0;
+	--dark-bg: #6F5B3E;
 }
 
 html {
